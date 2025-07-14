@@ -1,5 +1,5 @@
-# CSDL701 - Deep Learning Lab - A.Y. 2025-26
-CSDL701 important experiments in Deep Learning Lab with their implementations. 
+# CSL701 - Deep Learning Lab - A.Y. 2025-26
+CSL701 important experiments in Deep Learning Lab with their implementations. 
 
 List of experiments is as follows :
 - Experiment 01 ~ Review of Deep Learning Techniques and Applications.
